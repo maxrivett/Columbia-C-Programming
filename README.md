@@ -1,1 +1,2 @@
-# Columbia-C-Programming
+# Columbia-C-Programming 
+with amzing code
